@@ -1,0 +1,22 @@
+# Single Linear Regression for Electricity Price Prediction
+
+This project demonstrates a **single-variable linear regression** model in Python to predict electricity prices based on one input feature (such as demand, time, or consumption).  
+
+## Features
+- Data loading and preprocessing  
+- Single linear regression implementation (from scratch and/or using libraries)  
+- Model training and evaluation  
+- Visualization of predictions vs actual values  
+
+## Tech Stack
+- torch
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+## Usage
+1. Clone this repository  
+2. Install dependencies:  
+   ```bash
+   pip install numpy pandas matplotlib
